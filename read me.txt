@@ -1,0 +1,11 @@
+libraries used - 
+1. paper.js
+2. howler.js
+
+special thanks to MIT for providing free sample music !
+
+copyrights © 2020 by Undisputed (Pranav Arya) 
+All rights reserved. This webpage or any portion thereof
+may not be reproduced or used in any manner whatsoever
+without the express written permission of the (sole owner - Pranav Arya)
+except for the use of any commercial activity. 
