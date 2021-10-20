@@ -1,4 +1,4 @@
-Neuronal Synchrony
+Web Animation
 ==================
 
 A collection of two dimensional animations that are triggered by sound.
@@ -9,3 +9,4 @@ Prototyped with [Processing](http://processing.org/), built with [JavaScript](ht
 
 
 View project - https://pranavarya007.github.io/web-animation.github.io/
+Open only on computer/laptop (does not work on mobile phones)
